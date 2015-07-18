@@ -1,0 +1,32 @@
+{
+  "name": "gulp-mongoose-schema",
+  "version": "0.1.0",
+  "description": "Helper for gulp and mongoose to create schema from (sloppy)json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dasher/gulp-mongoose-schema.git"
+  },
+  "keywords": [
+    "gulp",
+    "mongoose",
+    "schema",
+    "helper"
+  ],
+  "author": "dasher@crucialdivide.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasher/gulp-mongoose-schema/issues"
+  },
+  "homepage": "https://github.com/dasher/gulp-mongoose-schema#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "jsonic": "^0.2.1",
+    "merge": "^1.2.0",
+    "through2": "^2.0.0",
+    "vinyl-sourcemaps-apply": "^0.1.4"
+  }
+}

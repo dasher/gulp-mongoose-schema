@@ -26,6 +26,9 @@
     "gulp-util": "^3.0.6",
     "jsonic": "^0.2.1",
     "merge": "^1.2.0",
+    "moment": "^2.10.3",
+    "moment-parseformat": "^1.0.1",
+    "sugar": "^1.4.1",
     "through2": "^2.0.0",
     "vinyl-sourcemaps-apply": "^0.1.4"
   }
